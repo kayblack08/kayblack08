@@ -1,0 +1,5 @@
+-# Sobre mim #
+-  👋 Olá meu nome é @kayblack08
+- 👍 Meu email de contato é caio.nascimento.ribeiro@escola.pr.gov.br
+- 👀 Estou interessado em aprender novas linguagens.
+- Estou aprendendo a linguagem do Javascript e Scratch..
